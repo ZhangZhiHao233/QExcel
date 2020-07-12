@@ -1,0 +1,32 @@
+﻿生成启动时间为 2020/7/12 16:39:34。
+     1>项目“E:\svnpro\myVCProject\testQWord\testQWord.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Win32\Debug\testQWord.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ComputeCustomBuildOutput:
+         正在创建目录“E:\svnpro\myVCProject\testQWord\GeneratedFiles\Debug\”。
+       CustomBuild:
+         Moc'ing widget.h...
+         Uic'ing widget.ui...
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\Qt\Qt5.3.2\5.3\msvc2010_opengl\include /ID:\Qt\Qt5.3.2\5.3\msvc2010_opengl\include\ActiveQt /ID:\Qt\Qt5.3.2\5.3\msvc2010_opengl\include\QtWidgets /ID:\Qt\Qt5.3.2\5.3\msvc2010_opengl\include\QtGui /ID:\Qt\Qt5.3.2\5.3\msvc2010_opengl\include\QtCore /Idebug /I. /I"D:\Qt\Qt5.3.2\5.3\msvc2010_opengl\mkspecs\win32-msvc2010" /I.\GeneratedFiles /Zi /nologo /W3 /WX- /Od /Oy- /D _WINDOWS /D UNICODE /D WIN32 /D QT_AXCONTAINER_LIB /D QT_AXBASE_LIB /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D QT_DLL /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_widget.cpp main.cpp qexcel.cpp widget.cpp -Zm200 -w34100 -w34189 
+         moc_widget.cpp
+         main.cpp
+         qexcel.cpp
+         widget.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"debug\\testQWord.exe" /NOLOGO /LIBPATH:D:\Qt\Qt5.3.2\5.3\msvc2010_opengl\lib /LIBPATH:D:\Qt\Qt5.3.2\5.3\msvc2010_opengl\lib /LIBPATH:D:\Qt\Qt5.3.2\5.3\msvc2010_opengl\lib D:\Qt\Qt5.3.2\5.3\msvc2010_opengl\lib\qtmaind.lib D:\Qt\Qt5.3.2\5.3\msvc2010_opengl\lib\Qt5AxContainerd.lib D:\Qt\Qt5.3.2\5.3\msvc2010_opengl\lib\Qt5AxBased.lib D:\Qt\Qt5.3.2\5.3\msvc2010_opengl\lib\Qt5Widgetsd.lib D:\Qt\Qt5.3.2\5.3\msvc2010_opengl\lib\Qt5AxBased.lib glu32.lib opengl32.lib D:\Qt\Qt5.3.2\5.3\msvc2010_opengl\lib\Qt5Guid.lib D:\Qt\Qt5.3.2\5.3\msvc2010_opengl\lib\Qt5Cored.lib ole32.lib oleaut32.lib user32.lib gdi32.lib advapi32.lib D:\Qt\Qt5.3.2\5.3\msvc2010_opengl\lib\Qt5Widgetsd.lib D:\Qt\Qt5.3.2\5.3\msvc2010_opengl\lib\Qt5Guid.lib D:\Qt\Qt5.3.2\5.3\msvc2010_opengl\lib\Qt5Cored.lib Qt5AxBase.lib opencv_ml2413.lib opencv_calib3d2413.lib opencv_contrib2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_flann2413.lib opencv_gpu2413.lib opencv_highgui2413.lib opencv_imgproc2413.lib opencv_legacy2413.lib opencv_objdetect2413.lib opencv_ts2413.lib opencv_video2413.lib opencv_nonfree2413.lib opencv_ocl2413.lib opencv_photo2413.lib opencv_stitching2413.lib opencv_superres2413.lib opencv_videostab2413.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Win32\Debug\testQWord.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\svnpro\myVCProject\testQWord\debug\testQWord.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 Win32\Debug\moc_widget.obj
+         Win32\Debug\main.obj
+         Win32\Debug\qexcel.obj
+         Win32\Debug\widget.obj "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" 
+         testQWord.vcxproj -> E:\svnpro\myVCProject\testQWord\debug\testQWord.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"debug\\testQWord.exe;#1" /manifest Win32\Debug\testQWord.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Win32\Debug\testQWord.unsuccessfulbuild”。
+         正在对“Win32\Debug\testQWord.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\svnpro\myVCProject\testQWord\testQWord.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:11.66
